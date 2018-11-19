@@ -14,9 +14,8 @@ Summary: Design single-case phase, alternation and multiple-baseline experiments
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-scrt-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-scrt-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-scrt-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-scrt-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-scrt-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-scrt-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-scrt-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-scrt-feedstock)
 
 Current release info
 ====================
