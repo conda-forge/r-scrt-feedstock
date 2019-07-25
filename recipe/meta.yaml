@@ -1,4 +1,4 @@
-{% set version = '1.2.2' %}
+{% set version = "1.3.0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -11,12 +11,12 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/SCRT_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/SCRT/SCRT_{{ version }}.tar.gz
-  sha256: 498849d04963cb9bfe0e637ee7e91d4d79944b5592f0f689dc8aaeb21efbcbf4
+  sha256: 881cb11e9748056a75ef723608fe1dc8e2e006fae0c67149b7e7857aae84c818
 
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1002
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
