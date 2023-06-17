@@ -1,11 +1,11 @@
-About r-scrt
-============
+About r-scrt-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-scrt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=SCRT
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-scrt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Design single-case phase, alternation and multiple-baseline experiments, and conduct randomization tests on data gathered by means of such designs.
 
